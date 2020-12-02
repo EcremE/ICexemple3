@@ -3,7 +3,7 @@ package epsi;
 import java.util.Arrays;
 
 /**
- * Hello world!
+ * System.out.println("Hello world!");
  *
  */
 public class App {
